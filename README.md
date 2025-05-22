@@ -138,14 +138,15 @@ This offers granular visibility into:
 ## 📷 **Dashboard Preview**
 
 ### 📍 Overall Dashboard Snapshot
-
+<a href="https://github.com/poonamkhot123/Sales-Target-Dashboard-Project---VisionTech-Pvt.-Ltd.-/blob/main/My%20Excel%20dashboard.xlsx"> dataset used </a>
 
 
 ### 📍 Pivot Table Details
-
+<a href="Data Sheet.png"> </a>
 
 
 ### 📍 Employee-Wise Performance Breakdown
+<a href="Pivot Tables.png"> </a>
 
 
 
@@ -168,8 +169,6 @@ This offers granular visibility into:
 🔍 Data Analyst Intern – Anudip Foundation
 🛠️ Skills: Excel | Power BI | Python | SQL | Data Visualization
 💼 Passionate about turning raw data into strategic business insights.
-
-📧 **Email:** \[[your-email@example.com](poonamkhot11@gmail.com)]
 
 ---
 
