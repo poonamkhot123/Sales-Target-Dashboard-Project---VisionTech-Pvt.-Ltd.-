@@ -138,15 +138,15 @@ This offers granular visibility into:
 ## 📷 **Dashboard Preview**
 
 ### 📍 Overall Dashboard Snapshot
-<a href="https://github.com/poonamkhot123/Sales-Target-Dashboard-Project---VisionTech-Pvt.-Ltd.-/blob/main/My%20Excel%20dashboard.xlsx"> dataset used </a>
+<a href="https://github.com/poonamkhot123/Sales-Target-Dashboard-Project---VisionTech-Pvt.-Ltd.-/blob/main/My%20Excel%20dashboard.xlsx"> Actual Dashboard </a>
 
 
 ### 📍 Pivot Table Details
-<a href="Data Sheet.png"> </a>
+<a href="Data Sheet.png"> Datasheet used </a>
 
 
 ### 📍 Employee-Wise Performance Breakdown
-<a href="Pivot Tables.png"> </a>
+<a href="Pivot Tables.png"> Pivot Table </a>
 
 
 
